@@ -1,3 +1,5 @@
+### config.js 에 connection 할 데이터베이스 적어주세요.
+
 패키지 설치
 ```bash 
 npm i express mysql sequelize
@@ -6,6 +8,9 @@ npm i express mysql sequelize
 ```bash
 npm i -D dotenv nodemon prettier sequelize-cli
 ```
+
+### ERD
+![drawSQL-test-export-2023-03-16](https://user-images.githubusercontent.com/51357635/225545436-f5d42d1a-bd78-4987-b74a-3032591651ce.png)
 
 ```bash
 npx sequelize init
